@@ -7,11 +7,11 @@ These projects span various programming languages and demonstrate my skills in a
 # Table of Contents <!-- omit in toc -->
 - [Languages Included](#languages-included)
 - [Notable Projects](#notable-projects)
-  - [**Cursive OCR Pipeline (Python)**](#cursive-ocr-pipeline-python)
-  - [**Driver Incentive Web App (C#)**](#driver-incentive-web-app-c)
+  - [Cursive OCR Pipeline (Python)](#cursive-ocr-pipeline-python)
+  - [Driver Incentive Web App (C#)](#driver-incentive-web-app-c)
   - [Serverless Account API (Node.js)](#serverless-account-api-nodejs)
-  - [**DevOps Migration CI/CD Pipeline (Kubernetes/Github Actions)**](#devops-migration-cicd-pipeline-kubernetesgithub-actions)
-  - [**Mips Assembler \& CPU Simulator (C++ \& Java)**](#mips-assembler--cpu-simulator-c--java)
+  - [DevOps Migration CI/CD Pipeline (Kubernetes/Github Actions)](#devops-migration-cicd-pipeline-kubernetesgithub-actions)
+  - [Mips Assembler \& CPU Simulator (C++ \& Java)](#mips-assembler--cpu-simulator-c--java)
 - [Project Overview and Progression](#project-overview-and-progression)
 - [Project Stats For Data Nerds](#project-stats-for-data-nerds)
 
@@ -28,7 +28,7 @@ Most of my projects are backend-heavy, and therefore are categorized by their re
 ## Notable Projects
 
 
-### **Cursive OCR Pipeline (Python)**
+### Cursive OCR Pipeline (Python)
 
 ```mermaid
   flowchart TB
@@ -107,7 +107,7 @@ Most of my projects are backend-heavy, and therefore are categorized by their re
        - Dataset analytics
        - Model performance and accuracy metrics
        - Segmentation and prediction overlays for debugging and analysis
-### **Driver Incentive Web App (C#)**
+### Driver Incentive Web App (C#)
 ```mermaid
 sequenceDiagram
     participant User as Browser
@@ -291,7 +291,7 @@ sequenceDiagram
    - Comprehensive error handling with custom messages for invalid requests.
    - Detailed OpenAPI documentation for all endpoints.
 
-### **DevOps Migration CI/CD Pipeline (Kubernetes/Github Actions)**
+### DevOps Migration CI/CD Pipeline (Kubernetes/Github Actions)
 ```mermaid
 flowchart LR
     A[Developer Code] --> G[GitHub Repo]
@@ -334,7 +334,7 @@ flowchart LR
      - Template-style architecture 
      - Base level code uses kuberenetes standards for maximum cloud integration potential.
 
-### **Mips Assembler & CPU Simulator (C++ & Java)**
+### Mips Assembler & CPU Simulator (C++ & Java)
 ```mermaid
 stateDiagram
     %% MIPS Assembler States
